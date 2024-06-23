@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shirsh</h1>
 <h3 align="center">Biology and Philosophy enthusiast</h3>
-![A fun GIF](https://miro.medium.com/v2/resize:fit:1400/1*1V7b1iKLCf0wq2yzW9l9tA.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shhhirsh&label=Profile%20views&color=0e75b6&style=flat" alt="shhhirsh" /> </p>
